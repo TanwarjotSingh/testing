@@ -1,2 +1,6 @@
 abc 1
+<<<<<<< HEAD
 aaabbcc222222
+=======
+abc2
+>>>>>>> dd22bc486aee74bb1f7ece0db2c2e87190336b55
